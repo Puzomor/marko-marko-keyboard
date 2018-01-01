@@ -6834,9 +6834,9 @@ USB-B device</text>
 <attribute name="NAME" x="235.966" y="96.7486" size="1.778" layer="95"/>
 <attribute name="VALUE" x="243.84" y="96.774" size="1.778" layer="96"/>
 </instance>
-<instance part="R7" gate="G$1" x="241.3" y="93.98" smashed="yes">
-<attribute name="NAME" x="235.966" y="94.2086" size="1.778" layer="95"/>
-<attribute name="VALUE" x="243.84" y="94.234" size="1.778" layer="96"/>
+<instance part="R7" gate="G$1" x="241.3" y="99.06" smashed="yes">
+<attribute name="NAME" x="235.966" y="99.2886" size="1.778" layer="95"/>
+<attribute name="VALUE" x="243.84" y="99.314" size="1.778" layer="96"/>
 </instance>
 <instance part="K60" gate="G$1" x="68.58" y="35.56" rot="R180"/>
 <instance part="K67" gate="G$1" x="93.98" y="35.56" rot="R180"/>
@@ -7390,9 +7390,9 @@ USB-B device</text>
 <junction x="251.46" y="-45.72"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="(PCI2/SS/OC1B)PB2"/>
-<wire x1="236.22" y1="76.2" x2="238.76" y2="76.2" width="0.1524" layer="91"/>
-<label x="238.76" y="76.2" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="(PCI1/OC1A/OC1S)PB1"/>
+<wire x1="236.22" y1="78.74" x2="238.76" y2="78.74" width="0.1524" layer="91"/>
+<label x="238.76" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="ROW4" class="0">
@@ -7651,8 +7651,8 @@ USB-B device</text>
 </segment>
 <segment>
 <pinref part="R7" gate="G$1" pin="2"/>
-<wire x1="246.38" y1="93.98" x2="248.92" y2="93.98" width="0.1524" layer="91"/>
-<label x="248.92" y="93.98" size="1.778" layer="95"/>
+<wire x1="246.38" y1="99.06" x2="248.92" y2="99.06" width="0.1524" layer="91"/>
+<label x="248.92" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D-" class="0">
@@ -7740,9 +7740,9 @@ USB-B device</text>
 <junction x="81.28" y="17.78"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="(PCI1/OC1A/OC1S)PB1"/>
-<wire x1="236.22" y1="78.74" x2="238.76" y2="78.74" width="0.1524" layer="91"/>
-<label x="238.76" y="78.74" size="1.778" layer="95"/>
+<pinref part="IC1" gate="G$1" pin="(PCI2/SS/OC1B)PB2"/>
+<wire x1="236.22" y1="76.2" x2="238.76" y2="76.2" width="0.1524" layer="91"/>
+<label x="238.76" y="76.2" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="ROW7" class="0">
@@ -8232,16 +8232,16 @@ USB-B device</text>
 <pinref part="K128" gate="G$1" pin="P$1"/>
 </segment>
 </net>
-<net name="N$21" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="(PCI20/XCK/T0)PD4"/>
-<pinref part="R7" gate="G$1" pin="1"/>
-</segment>
-</net>
 <net name="N$68" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI19/INT1/OC2B)PD3"/>
 <pinref part="R6" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="N$21" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="(PCI18/INT0)PD2"/>
+<pinref part="R7" gate="G$1" pin="1"/>
 </segment>
 </net>
 </nets>
