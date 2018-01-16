@@ -10967,7 +10967,7 @@ USB-B device</text>
 <label x="238.76" y="119.38" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="RESET" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="175.26" y1="144.78" x2="175.26" y2="132.08" width="0.1524" layer="91"/>
