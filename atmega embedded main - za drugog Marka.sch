@@ -10299,9 +10299,9 @@ USB-B device</text>
 <attribute name="NAME" x="200.66" y="-5.08" size="1.778" layer="94" rot="R180"/>
 <attribute name="VALUE" x="200.66" y="7.62" size="1.778" layer="94" rot="R180"/>
 </instance>
-<instance part="K87" gate="G$1" x="93.98" y="-17.78" smashed="yes" rot="R180">
-<attribute name="NAME" x="99.06" y="-22.86" size="1.778" layer="94" rot="R180"/>
-<attribute name="VALUE" x="99.06" y="-10.16" size="1.778" layer="94" rot="R180"/>
+<instance part="K87" gate="G$1" x="68.58" y="-35.56" smashed="yes" rot="R180">
+<attribute name="NAME" x="73.66" y="-40.64" size="1.778" layer="94" rot="R180"/>
+<attribute name="VALUE" x="73.66" y="-27.94" size="1.778" layer="94" rot="R180"/>
 </instance>
 <instance part="K88" gate="G$1" x="93.98" y="-35.56" smashed="yes" rot="R180">
 <attribute name="NAME" x="99.06" y="-40.64" size="1.778" layer="94" rot="R180"/>
@@ -10323,9 +10323,9 @@ USB-B device</text>
 <attribute name="NAME" x="200.66" y="-22.86" size="1.778" layer="94" rot="R180"/>
 <attribute name="VALUE" x="200.66" y="-10.16" size="1.778" layer="94" rot="R180"/>
 </instance>
-<instance part="K93" gate="G$1" x="68.58" y="-35.56" smashed="yes" rot="R180">
-<attribute name="NAME" x="73.66" y="-40.64" size="1.778" layer="94" rot="R180"/>
-<attribute name="VALUE" x="73.66" y="-27.94" size="1.778" layer="94" rot="R180"/>
+<instance part="K93" gate="G$1" x="93.98" y="-17.78" smashed="yes" rot="R180">
+<attribute name="NAME" x="99.06" y="-22.86" size="1.778" layer="94" rot="R180"/>
+<attribute name="VALUE" x="99.06" y="-10.16" size="1.778" layer="94" rot="R180"/>
 </instance>
 <instance part="K94" gate="G$1" x="114.3" y="-35.56" smashed="yes" rot="R180">
 <attribute name="NAME" x="119.38" y="-40.64" size="1.778" layer="94" rot="R180"/>
@@ -10367,9 +10367,9 @@ USB-B device</text>
 <attribute name="NAME" x="180.34" y="27.94" size="1.27" layer="95" rot="R90"/>
 <attribute name="VALUE" x="186.69" y="27.94" size="1.27" layer="96" rot="R90"/>
 </instance>
-<instance part="D72" gate="G$1" x="205.74" y="35.56" smashed="yes" rot="R180">
-<attribute name="NAME" x="208.28" y="33.02" size="1.27" layer="95" rot="R180"/>
-<attribute name="VALUE" x="208.28" y="39.37" size="1.27" layer="96" rot="R180"/>
+<instance part="D72" gate="G$1" x="205.74" y="45.72" smashed="yes" rot="R180">
+<attribute name="NAME" x="208.28" y="43.18" size="1.27" layer="95" rot="R180"/>
+<attribute name="VALUE" x="208.28" y="49.53" size="1.27" layer="96" rot="R180"/>
 </instance>
 <instance part="D73" gate="G$1" x="205.74" y="17.78" smashed="yes" rot="R180">
 <attribute name="NAME" x="208.28" y="15.24" size="1.27" layer="95" rot="R180"/>
@@ -10403,13 +10403,13 @@ USB-B device</text>
 <attribute name="NAME" x="81.28" y="-2.54" size="1.27" layer="95" rot="R180"/>
 <attribute name="VALUE" x="81.28" y="3.81" size="1.27" layer="96" rot="R180"/>
 </instance>
-<instance part="D81" gate="G$1" x="101.6" y="-22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="99.06" y="-25.4" size="1.27" layer="95" rot="R90"/>
-<attribute name="VALUE" x="105.41" y="-25.4" size="1.27" layer="96" rot="R90"/>
+<instance part="D81" gate="G$1" x="76.2" y="-40.64" smashed="yes" rot="R90">
+<attribute name="NAME" x="73.66" y="-43.18" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="80.01" y="-43.18" size="1.27" layer="96" rot="R90"/>
 </instance>
-<instance part="D82" gate="G$1" x="78.74" y="-35.56" smashed="yes" rot="R180">
-<attribute name="NAME" x="81.28" y="-38.1" size="1.27" layer="95" rot="R180"/>
-<attribute name="VALUE" x="81.28" y="-31.75" size="1.27" layer="96" rot="R180"/>
+<instance part="D82" gate="G$1" x="104.14" y="-20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="101.6" y="-22.86" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="107.95" y="-22.86" size="1.27" layer="96" rot="R90"/>
 </instance>
 <instance part="D83" gate="G$1" x="121.92" y="-40.64" smashed="yes" rot="R90">
 <attribute name="NAME" x="119.38" y="-43.18" size="1.27" layer="95" rot="R90"/>
@@ -10423,9 +10423,9 @@ USB-B device</text>
 <attribute name="NAME" x="160.02" y="-43.18" size="1.27" layer="95" rot="R90"/>
 <attribute name="VALUE" x="166.37" y="-43.18" size="1.27" layer="96" rot="R90"/>
 </instance>
-<instance part="D86" gate="G$1" x="205.74" y="-35.56" smashed="yes" rot="R180">
-<attribute name="NAME" x="208.28" y="-38.1" size="1.27" layer="95" rot="R180"/>
-<attribute name="VALUE" x="208.28" y="-31.75" size="1.27" layer="96" rot="R180"/>
+<instance part="D86" gate="G$1" x="193.04" y="-40.64" smashed="yes" rot="R90">
+<attribute name="NAME" x="190.5" y="-43.18" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="196.85" y="-43.18" size="1.27" layer="96" rot="R90"/>
 </instance>
 <instance part="D87" gate="G$1" x="101.6" y="-40.64" smashed="yes" rot="R90">
 <attribute name="NAME" x="99.06" y="-43.18" size="1.27" layer="95" rot="R90"/>
@@ -10551,13 +10551,13 @@ USB-B device</text>
 <attribute name="NAME" x="355.6" y="5.08" size="1.778" layer="94"/>
 <attribute name="VALUE" x="355.6" y="-7.62" size="1.778" layer="94"/>
 </instance>
-<instance part="K118" gate="G$1" x="233.68" y="-25.4" smashed="yes">
-<attribute name="NAME" x="228.6" y="-20.32" size="1.778" layer="94"/>
-<attribute name="VALUE" x="228.6" y="-33.02" size="1.778" layer="94"/>
+<instance part="K118" gate="G$1" x="233.68" y="-17.78" smashed="yes">
+<attribute name="NAME" x="228.6" y="-12.7" size="1.778" layer="94"/>
+<attribute name="VALUE" x="228.6" y="-25.4" size="1.778" layer="94"/>
 </instance>
-<instance part="K119" gate="G$1" x="254" y="-17.78" smashed="yes" rot="R180">
-<attribute name="NAME" x="259.08" y="-22.86" size="1.778" layer="94" rot="R180"/>
-<attribute name="VALUE" x="259.08" y="-10.16" size="1.778" layer="94" rot="R180"/>
+<instance part="K119" gate="G$1" x="256.286" y="-17.78" smashed="yes" rot="R180">
+<attribute name="NAME" x="261.366" y="-22.86" size="1.778" layer="94" rot="R180"/>
+<attribute name="VALUE" x="261.366" y="-10.16" size="1.778" layer="94" rot="R180"/>
 </instance>
 <instance part="K120" gate="G$1" x="274.32" y="-17.78" smashed="yes" rot="R180">
 <attribute name="NAME" x="279.4" y="-22.86" size="1.778" layer="94" rot="R180"/>
@@ -10595,9 +10595,9 @@ USB-B device</text>
 <attribute name="NAME" x="355.6" y="-30.48" size="1.778" layer="94"/>
 <attribute name="VALUE" x="355.6" y="-43.18" size="1.778" layer="94"/>
 </instance>
-<instance part="D98" gate="G$1" x="223.52" y="-25.4" smashed="yes">
-<attribute name="NAME" x="220.98" y="-22.86" size="1.27" layer="95"/>
-<attribute name="VALUE" x="220.98" y="-29.21" size="1.27" layer="96"/>
+<instance part="D98" gate="G$1" x="226.06" y="-38.1" smashed="yes">
+<attribute name="NAME" x="223.52" y="-35.56" size="1.27" layer="95"/>
+<attribute name="VALUE" x="223.52" y="-41.91" size="1.27" layer="96"/>
 </instance>
 <instance part="D99" gate="G$1" x="261.62" y="30.48" smashed="yes" rot="R90">
 <attribute name="NAME" x="259.08" y="27.94" size="1.27" layer="95" rot="R90"/>
@@ -10679,9 +10679,9 @@ USB-B device</text>
 <attribute name="NAME" x="259.08" y="-7.62" size="1.27" layer="95" rot="R90"/>
 <attribute name="VALUE" x="265.43" y="-7.62" size="1.27" layer="96" rot="R90"/>
 </instance>
-<instance part="D119" gate="G$1" x="261.62" y="-22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="259.08" y="-25.4" size="1.27" layer="95" rot="R90"/>
-<attribute name="VALUE" x="265.43" y="-25.4" size="1.27" layer="96" rot="R90"/>
+<instance part="D119" gate="G$1" x="243.84" y="-23.114" smashed="yes" rot="R90">
+<attribute name="NAME" x="241.3" y="-25.654" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="247.65" y="-25.654" size="1.27" layer="96" rot="R90"/>
 </instance>
 <instance part="D120" gate="G$1" x="281.94" y="-22.86" smashed="yes" rot="R90">
 <attribute name="NAME" x="279.4" y="-25.4" size="1.27" layer="95" rot="R90"/>
@@ -10711,9 +10711,9 @@ USB-B device</text>
 <attribute name="NAME" x="299.72" y="-25.4" size="1.27" layer="95" rot="R90"/>
 <attribute name="VALUE" x="306.07" y="-25.4" size="1.27" layer="96" rot="R90"/>
 </instance>
-<instance part="D127" gate="G$1" x="350.52" y="-17.78" smashed="yes">
-<attribute name="NAME" x="347.98" y="-15.24" size="1.27" layer="95"/>
-<attribute name="VALUE" x="347.98" y="-21.59" size="1.27" layer="96"/>
+<instance part="D127" gate="G$1" x="350.52" y="-25.4" smashed="yes">
+<attribute name="NAME" x="347.98" y="-22.86" size="1.27" layer="95"/>
+<attribute name="VALUE" x="347.98" y="-29.21" size="1.27" layer="96"/>
 </instance>
 <instance part="D128" gate="G$1" x="350.52" y="0" smashed="yes">
 <attribute name="NAME" x="347.98" y="2.54" size="1.27" layer="95"/>
@@ -10939,11 +10939,19 @@ USB-B device</text>
 <pinref part="K60" gate="G$1" pin="P$2"/>
 <wire x1="63.5" y1="38.1" x2="60.96" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="K87" gate="G$1" pin="P$2"/>
-<wire x1="86.36" y1="0" x2="86.36" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="0" x2="86.36" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="-12.7" x2="60.96" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="-12.7" x2="60.96" y2="-35.56" width="0.1524" layer="91"/>
 <junction x="86.36" y="0"/>
 <pinref part="K88" gate="G$1" pin="P$2"/>
-<wire x1="86.36" y1="-17.78" x2="86.36" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="86.36" y="-17.78"/>
+<wire x1="185.42" y1="-50.8" x2="88.9" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="-50.8" x2="86.36" y2="-48.26" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="-48.26" x2="86.36" y2="-35.56" width="0.1524" layer="91"/>
+<junction x="86.36" y="-35.56"/>
+<pinref part="D86" gate="G$1" pin="A"/>
+<wire x1="193.04" y1="-43.18" x2="185.42" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="-35.56" x2="86.36" y2="-12.7" width="0.1524" layer="91"/>
+<junction x="86.36" y="-12.7"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI21/T1/OC0B)PD5"/>
@@ -10968,14 +10976,16 @@ USB-B device</text>
 <pinref part="K82" gate="G$1" pin="P$2"/>
 <wire x1="106.68" y1="17.78" x2="106.68" y2="0" width="0.1524" layer="91"/>
 <junction x="106.68" y="0"/>
-<pinref part="K72" gate="G$1" pin="P$2"/>
-<wire x1="185.42" y1="38.1" x2="187.96" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="K73" gate="G$1" pin="P$2"/>
 <wire x1="63.5" y1="20.32" x2="60.96" y2="17.78" width="0.1524" layer="91"/>
 <pinref part="K1" gate="G$1" pin="P$2"/>
 <pinref part="K94" gate="G$1" pin="P$2"/>
 <wire x1="106.68" y1="-35.56" x2="106.68" y2="-17.78" width="0.1524" layer="91"/>
 <junction x="106.68" y="-17.78"/>
+<pinref part="K72" gate="G$1" pin="P$1"/>
+<wire x1="203.2" y1="35.56" x2="203.2" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="27.94" x2="185.42" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="27.94" x2="185.42" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI22/AIN0OC0A)PD6"/>
@@ -11045,9 +11055,10 @@ USB-B device</text>
 </net>
 <net name="COL5" class="0">
 <segment>
-<wire x1="167.64" y1="-33.02" x2="63.5" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="-33.02" x2="83.82" y2="-33.02" width="0.1524" layer="91"/>
 <pinref part="K93" gate="G$1" pin="P$2"/>
-<wire x1="63.5" y1="-33.02" x2="60.96" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="-33.02" x2="83.82" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="-17.78" x2="86.36" y2="-17.78" width="0.1524" layer="91"/>
 <pinref part="K91" gate="G$1" pin="P$2"/>
 <pinref part="K85" gate="G$1" pin="P$2"/>
 <pinref part="K78" gate="G$1" pin="P$2"/>
@@ -11066,7 +11077,6 @@ USB-B device</text>
 <junction x="167.64" y="-17.78"/>
 <label x="167.64" y="45.72" size="1.778" layer="95"/>
 <wire x1="167.64" y1="-33.02" x2="167.64" y2="-17.78" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="-35.56" x2="167.64" y2="-17.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI10/ADC2)PC2"/>
@@ -11084,18 +11094,20 @@ USB-B device</text>
 <pinref part="K112" gate="G$1" pin="P$2"/>
 <wire x1="246.38" y1="17.78" x2="246.38" y2="0" width="0.1524" layer="91"/>
 <junction x="246.38" y="17.78"/>
-<pinref part="K119" gate="G$1" pin="P$2"/>
-<wire x1="246.38" y1="0" x2="246.38" y2="-17.78" width="0.1524" layer="91"/>
 <junction x="246.38" y="0"/>
-<junction x="246.38" y="-17.78"/>
 <label x="246.38" y="45.72" size="1.778" layer="95"/>
-<pinref part="K118" gate="G$1" pin="P$2"/>
-<wire x1="246.38" y1="-17.78" x2="241.3" y2="-25.4" width="0.1524" layer="91"/>
 <pinref part="K128" gate="G$1" pin="P$2"/>
-<wire x1="254" y1="-33.02" x2="365.76" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="-33.02" x2="365.76" y2="-33.02" width="0.1524" layer="91"/>
 <wire x1="365.76" y1="-33.02" x2="368.3" y2="-35.56" width="0.1524" layer="91"/>
-<wire x1="254" y1="-33.02" x2="246.38" y2="-25.4" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="-25.4" x2="246.38" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="K118" gate="G$1" pin="P$1"/>
+<wire x1="246.38" y1="0" x2="246.38" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="-12.7" x2="246.38" y2="-33.02" width="0.1524" layer="91"/>
+<pinref part="K119" gate="G$1" pin="P$1"/>
+<wire x1="263.906" y1="-17.78" x2="263.906" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="263.906" y1="-12.7" x2="246.38" y2="-12.7" width="0.1524" layer="91"/>
+<junction x="246.38" y="-12.7"/>
+<wire x1="226.06" y1="-17.78" x2="226.06" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="-12.7" x2="246.38" y2="-12.7" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI11/ADC3)PC3"/>
@@ -11215,8 +11227,8 @@ USB-B device</text>
 <pinref part="D93" gate="G$1" pin="A"/>
 <wire x1="162.56" y1="-25.4" x2="162.56" y2="-27.94" width="0.1524" layer="91"/>
 <junction x="162.56" y="-27.94"/>
-<wire x1="50.8" y1="-27.94" x2="101.6" y2="-27.94" width="0.1524" layer="91"/>
-<wire x1="101.6" y1="-27.94" x2="121.92" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="-27.94" x2="104.14" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="-27.94" x2="121.92" y2="-27.94" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="-27.94" x2="142.24" y2="-27.94" width="0.1524" layer="91"/>
 <wire x1="142.24" y1="-27.94" x2="162.56" y2="-27.94" width="0.1524" layer="91"/>
 <pinref part="D90" gate="G$1" pin="A"/>
@@ -11229,27 +11241,27 @@ USB-B device</text>
 <pinref part="D126" gate="G$1" pin="A"/>
 <wire x1="302.26" y1="-25.4" x2="302.26" y2="-27.94" width="0.1524" layer="91"/>
 <junction x="302.26" y="-27.94"/>
-<pinref part="D119" gate="G$1" pin="A"/>
-<wire x1="261.62" y1="-25.4" x2="261.62" y2="-27.94" width="0.1524" layer="91"/>
-<wire x1="261.62" y1="-27.94" x2="281.94" y2="-27.94" width="0.1524" layer="91"/>
 <wire x1="281.94" y1="-27.94" x2="302.26" y2="-27.94" width="0.1524" layer="91"/>
 <junction x="281.94" y="-27.94"/>
 <pinref part="D120" gate="G$1" pin="A"/>
 <wire x1="281.94" y1="-25.4" x2="281.94" y2="-27.94" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="-27.94" x2="261.62" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="-27.94" x2="243.84" y2="-27.94" width="0.1524" layer="91"/>
 <junction x="182.88" y="-27.94"/>
-<junction x="261.62" y="-27.94"/>
 <label x="50.8" y="-27.94" size="1.778" layer="95" rot="R180"/>
 <pinref part="D3" gate="G$1" pin="A"/>
+<wire x1="243.84" y1="-27.94" x2="281.94" y2="-27.94" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="-27.94" x2="121.92" y2="-25.4" width="0.1524" layer="91"/>
 <junction x="121.92" y="-27.94"/>
 <wire x1="322.58" y1="-27.94" x2="342.9" y2="-27.94" width="0.1524" layer="91"/>
 <junction x="322.58" y="-27.94"/>
 <pinref part="D5" gate="G$1" pin="A"/>
 <wire x1="342.9" y1="-27.94" x2="342.9" y2="-25.4" width="0.1524" layer="91"/>
-<pinref part="D81" gate="G$1" pin="A"/>
-<wire x1="101.6" y1="-25.4" x2="101.6" y2="-27.94" width="0.1524" layer="91"/>
-<junction x="101.6" y="-27.94"/>
+<pinref part="D82" gate="G$1" pin="A"/>
+<wire x1="104.14" y1="-22.86" x2="104.14" y2="-27.94" width="0.1524" layer="91"/>
+<junction x="104.14" y="-27.94"/>
+<pinref part="D119" gate="G$1" pin="A"/>
+<wire x1="243.84" y1="-25.654" x2="243.84" y2="-27.94" width="0.1524" layer="91"/>
+<junction x="243.84" y="-27.94"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI1/OC1A/OC1S)PB1"/>
@@ -11426,10 +11438,10 @@ USB-B device</text>
 <pinref part="K111" gate="G$1" pin="P$2"/>
 <wire x1="264.16" y1="2.54" x2="243.84" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="243.84" y1="2.54" x2="241.3" y2="0" width="0.1524" layer="91"/>
-<pinref part="K123" gate="G$1" pin="P$2"/>
-<wire x1="365.76" y1="-15.24" x2="368.3" y2="-17.78" width="0.1524" layer="91"/>
-<wire x1="269.24" y1="-15.24" x2="365.76" y2="-15.24" width="0.1524" layer="91"/>
 <wire x1="269.24" y1="-15.24" x2="266.7" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="K123" gate="G$1" pin="P$1"/>
+<wire x1="353.06" y1="-17.78" x2="350.52" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="350.52" y1="-15.24" x2="269.24" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI12/ADC4/SDA)PC4"/>
@@ -11531,23 +11543,20 @@ USB-B device</text>
 <net name="ROW6" class="0">
 <segment>
 <label x="45.72" y="-53.34" size="1.778" layer="95"/>
-<wire x1="50.8" y1="-53.34" x2="81.28" y2="-53.34" width="0.1524" layer="91"/>
 <pinref part="D104" gate="G$1" pin="A"/>
+<wire x1="50.8" y1="-53.34" x2="81.28" y2="-53.34" width="0.1524" layer="91"/>
 <wire x1="81.28" y1="-53.34" x2="347.98" y2="-53.34" width="0.1524" layer="91"/>
 <wire x1="347.98" y1="-35.56" x2="347.98" y2="-53.34" width="0.1524" layer="91"/>
 <pinref part="D127" gate="G$1" pin="A"/>
-<wire x1="347.98" y1="-35.56" x2="347.98" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="347.98" y1="-35.56" x2="347.98" y2="-25.4" width="0.1524" layer="91"/>
 <junction x="347.98" y="-35.56"/>
 <pinref part="D128" gate="G$1" pin="A"/>
-<wire x1="347.98" y1="-17.78" x2="347.98" y2="0" width="0.1524" layer="91"/>
-<junction x="347.98" y="-17.78"/>
+<wire x1="347.98" y1="-25.4" x2="347.98" y2="0" width="0.1524" layer="91"/>
+<junction x="347.98" y="-25.4"/>
 <pinref part="D115" gate="G$1" pin="A"/>
 <wire x1="347.98" y1="0" x2="347.98" y2="17.78" width="0.1524" layer="91"/>
 <junction x="347.98" y="0"/>
-<pinref part="D82" gate="G$1" pin="A"/>
 <wire x1="347.98" y1="17.78" x2="347.98" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="81.28" y1="-35.56" x2="81.28" y2="-53.34" width="0.1524" layer="91"/>
-<junction x="81.28" y="-53.34"/>
 <pinref part="D4" gate="G$1" pin="A"/>
 <junction x="347.98" y="17.78"/>
 <pinref part="D45" gate="G$1" pin="A"/>
@@ -11556,9 +11565,13 @@ USB-B device</text>
 <junction x="81.28" y="17.78"/>
 <pinref part="D80" gate="G$1" pin="A"/>
 <wire x1="81.28" y1="0" x2="81.28" y2="17.78" width="0.1524" layer="91"/>
-<wire x1="81.28" y1="-35.56" x2="81.28" y2="0" width="0.1524" layer="91"/>
-<junction x="81.28" y="-35.56"/>
+<wire x1="81.28" y1="0" x2="81.28" y2="-43.18" width="0.1524" layer="91"/>
 <junction x="81.28" y="0"/>
+<junction x="81.28" y="-53.34"/>
+<pinref part="D81" gate="G$1" pin="A"/>
+<wire x1="81.28" y1="-43.18" x2="81.28" y2="-53.34" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="-43.18" x2="81.28" y2="-43.18" width="0.1524" layer="91"/>
+<junction x="81.28" y="-43.18"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI2/SS/OC1B)PB2"/>
@@ -11569,34 +11582,36 @@ USB-B device</text>
 <net name="ROW7" class="0">
 <segment>
 <label x="45.72" y="-60.96" size="1.778" layer="95"/>
-<wire x1="50.8" y1="-60.96" x2="208.28" y2="-60.96" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="-60.96" x2="177.8" y2="-60.96" width="0.1524" layer="91"/>
+<wire x1="177.8" y1="-60.96" x2="208.28" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="208.28" y1="-60.96" x2="220.98" y2="-60.96" width="0.1524" layer="91"/>
 <pinref part="D97" gate="G$1" pin="A"/>
-<wire x1="208.28" y1="-60.96" x2="208.28" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="-60.96" x2="208.28" y2="-17.78" width="0.1524" layer="91"/>
 <pinref part="D96" gate="G$1" pin="A"/>
-<wire x1="208.28" y1="-35.56" x2="208.28" y2="-17.78" width="0.1524" layer="91"/>
 <wire x1="208.28" y1="-17.78" x2="208.28" y2="0" width="0.1524" layer="91"/>
 <junction x="208.28" y="-17.78"/>
 <pinref part="D73" gate="G$1" pin="A"/>
 <wire x1="208.28" y1="0" x2="208.28" y2="17.78" width="0.1524" layer="91"/>
 <junction x="208.28" y="0"/>
 <pinref part="D72" gate="G$1" pin="A"/>
-<wire x1="208.28" y1="17.78" x2="208.28" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="17.78" x2="208.28" y2="45.72" width="0.1524" layer="91"/>
 <junction x="208.28" y="17.78"/>
-<pinref part="D98" gate="G$1" pin="A"/>
-<wire x1="220.98" y1="-60.96" x2="220.98" y2="-25.4" width="0.1524" layer="91"/>
-<pinref part="D110" gate="G$1" pin="A"/>
-<wire x1="220.98" y1="-25.4" x2="220.98" y2="0" width="0.1524" layer="91"/>
-<junction x="220.98" y="-25.4"/>
-<pinref part="D117" gate="G$1" pin="A"/>
-<wire x1="220.98" y1="0" x2="220.98" y2="17.78" width="0.1524" layer="91"/>
-<junction x="220.98" y="0"/>
-<pinref part="D116" gate="G$1" pin="A"/>
-<wire x1="220.98" y1="17.78" x2="220.98" y2="35.56" width="0.1524" layer="91"/>
-<junction x="220.98" y="17.78"/>
 <junction x="208.28" y="-60.96"/>
-<pinref part="D86" gate="G$1" pin="A"/>
-<junction x="208.28" y="-35.56"/>
+<pinref part="K97" gate="G$1" pin="P$2"/>
+<wire x1="177.8" y1="-35.56" x2="177.8" y2="-60.96" width="0.1524" layer="91"/>
+<junction x="177.8" y="-60.96"/>
+<pinref part="D116" gate="G$1" pin="A"/>
+<pinref part="D117" gate="G$1" pin="A"/>
+<pinref part="D110" gate="G$1" pin="A"/>
+<wire x1="220.98" y1="0" x2="220.98" y2="17.78" width="0.1524" layer="91"/>
+<junction x="220.98" y="17.78"/>
+<wire x1="220.98" y1="17.78" x2="220.98" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="0" x2="220.98" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="220.98" y="0"/>
+<pinref part="D98" gate="G$1" pin="A"/>
+<wire x1="220.98" y1="-38.1" x2="220.98" y2="-60.96" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="-38.1" x2="223.52" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="220.98" y="-38.1"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="(PCI9/ADC1)PC1"/>
@@ -11727,7 +11742,7 @@ USB-B device</text>
 <segment>
 <pinref part="K97" gate="G$1" pin="P$1"/>
 <pinref part="D86" gate="G$1" pin="C"/>
-<wire x1="193.04" y1="-35.56" x2="203.2" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="-35.56" x2="193.04" y2="-38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$32" class="0">
@@ -11756,12 +11771,6 @@ USB-B device</text>
 <pinref part="K91" gate="G$1" pin="P$1"/>
 <pinref part="D94" gate="G$1" pin="C"/>
 <wire x1="182.88" y1="-17.78" x2="182.88" y2="-20.32" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$36" class="0">
-<segment>
-<pinref part="D72" gate="G$1" pin="C"/>
-<pinref part="K72" gate="G$1" pin="P$1"/>
 </segment>
 </net>
 <net name="N$37" class="0">
@@ -11801,13 +11810,6 @@ USB-B device</text>
 <pinref part="K112" gate="G$1" pin="P$1"/>
 <pinref part="D118" gate="G$1" pin="C"/>
 <wire x1="261.62" y1="0" x2="261.62" y2="-2.54" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$43" class="0">
-<segment>
-<pinref part="K119" gate="G$1" pin="P$1"/>
-<pinref part="D119" gate="G$1" pin="C"/>
-<wire x1="261.62" y1="-17.78" x2="261.62" y2="-20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$48" class="0">
@@ -11958,6 +11960,7 @@ USB-B device</text>
 <segment>
 <pinref part="K93" gate="G$1" pin="P$1"/>
 <pinref part="D82" gate="G$1" pin="C"/>
+<wire x1="101.6" y1="-17.78" x2="104.14" y2="-17.78" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="COL10" class="0">
@@ -12006,12 +12009,6 @@ USB-B device</text>
 <pinref part="K111" gate="G$1" pin="P$1"/>
 </segment>
 </net>
-<net name="N$41" class="0">
-<segment>
-<pinref part="D98" gate="G$1" pin="C"/>
-<pinref part="K118" gate="G$1" pin="P$1"/>
-</segment>
-</net>
 <net name="N$42" class="0">
 <segment>
 <pinref part="D115" gate="G$1" pin="C"/>
@@ -12022,12 +12019,6 @@ USB-B device</text>
 <segment>
 <pinref part="D128" gate="G$1" pin="C"/>
 <pinref part="K117" gate="G$1" pin="P$1"/>
-</segment>
-</net>
-<net name="N$66" class="0">
-<segment>
-<pinref part="D127" gate="G$1" pin="C"/>
-<pinref part="K123" gate="G$1" pin="P$1"/>
 </segment>
 </net>
 <net name="N$67" class="0">
@@ -12093,22 +12084,44 @@ USB-B device</text>
 <segment>
 <pinref part="D81" gate="G$1" pin="C"/>
 <pinref part="K87" gate="G$1" pin="P$1"/>
-<wire x1="101.6" y1="-20.32" x2="101.6" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="-38.1" x2="76.2" y2="-35.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$15" class="0">
+<segment>
+<pinref part="D98" gate="G$1" pin="C"/>
+<pinref part="K118" gate="G$1" pin="P$2"/>
+<wire x1="228.6" y1="-38.1" x2="241.3" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="241.3" y1="-38.1" x2="241.3" y2="-17.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$41" class="0">
+<segment>
+<pinref part="D119" gate="G$1" pin="C"/>
+<wire x1="243.84" y1="-20.574" x2="243.84" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="K119" gate="G$1" pin="P$2"/>
+<wire x1="243.84" y1="-17.78" x2="248.666" y2="-17.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$43" class="0">
+<segment>
+<pinref part="D127" gate="G$1" pin="C"/>
+<wire x1="353.06" y1="-25.4" x2="368.3" y2="-25.4" width="0.1524" layer="91"/>
+<pinref part="K123" gate="G$1" pin="P$2"/>
+<wire x1="368.3" y1="-25.4" x2="368.3" y2="-17.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$36" class="0">
+<segment>
+<pinref part="D72" gate="G$1" pin="C"/>
+<pinref part="K72" gate="G$1" pin="P$2"/>
+<wire x1="203.2" y1="45.72" x2="187.96" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="45.72" x2="187.96" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="110,1,93.98,-15.24,COL4,COL1,,,,"/>
-<approved hash="110,1,93.98,-15.24,COL4,COL1,,,,"/>
-<approved hash="110,1,114.3,-15.24,COL4,COL2,,,,"/>
-<approved hash="110,1,114.3,-15.24,COL4,COL2,,,,"/>
-<approved hash="110,1,314.96,-15.24,COL8,COL9,,,,"/>
-<approved hash="110,1,314.96,-15.24,COL8,COL9,,,,"/>
-<approved hash="110,1,335.28,-15.24,COL8,COL10,,,,"/>
-<approved hash="110,1,335.28,-15.24,COL8,COL10,,,,"/>
-</errors>
 </schematic>
 </drawing>
 <compatibility>
