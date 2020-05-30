@@ -1,3 +1,0 @@
-marko
-DESKTOP-G5HCBS3 
-Friday, May 29, 2020  20:10:44
