@@ -2,7 +2,7 @@
 
 [Default]
 
-  RoutingGrid     = 0.2mm
+  RoutingGrid     = 0.5mm
 
   ; Trace Parameters:
 
